@@ -7,16 +7,18 @@
   overflow: hidden;
 }
 
-.topfucker h1 {
-  font-family: Papyrus, Helvetica, sans-serif;
-  color: #FFFFFFF;
-  line-height: 0.8;
-}
-
 .topfucker p {
   font-family: Papyrus, Helvetica, sans-serif;
   color: #FFFFFFF;
   line-height: 0.8;
+  font-size: 28;
+}
+
+.topfucker p.subtitle {
+  font-family: Papyrus, Helvetica, sans-serif;
+  color: #FFFFFFF;
+  line-height: 0.4;
+  font-size: 12;
 }
 
 /* Style the links inside the navigation bar */
