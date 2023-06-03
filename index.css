@@ -3,20 +3,18 @@
 /* Add a black background color to the top navigation */
 
 .topfucker {
-  font-family: "Papyrus";
   background-color: #91c2aa;
   overflow: hidden;
 }
 
 .topfucker p {
-  font-family: "Papyrus";
+  font-family: Papyrus, Helvetica, sans-serif;
   color: #FFFFFFF;
 }
 
 /* Style the links inside the navigation bar */
 .topfucker a {
   float: left;
-  font-family: "Papyrus";
   color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
@@ -25,14 +23,12 @@
 }
 /* Add a color to the active/current link */
 .topfucker a.active {
-  font-family: "Papyrus";
   background-color: #04AA6D;
   color: white;
 }
 
 /* Change the color of links on hover */
 .topfucker a:hover {
-  font-family: "Papyrus";
   background-color: #ddd;
   color: black;
 }
